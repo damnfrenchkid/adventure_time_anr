@@ -1,0 +1,1 @@
+for /D %a in ("C:\Users\baccam\Documents\Extraction E.2\anr17\*.*") do xcopy /y /d C:\Users\baccam\Documents\PythonScripts\exemple.txt "%a\"
